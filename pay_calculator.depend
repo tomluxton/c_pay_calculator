@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579524359 source:/Users/admin/Documents/c_programs/pay_calculator/main.c
+	<stdio.h>
+	<stdlib.h>
+
