@@ -37,7 +37,7 @@ int yes_weekend(float base) {
     printf("How many hours did you work Sunday?\n");
     scanf("%f", &sun_hours);
 
-    printf("What is your Staturday multiplier? (e.g. 25%% extra would be 1.25)\n");
+    printf("What is your Saturday multiplier? (e.g. 25%% extra would be 1.25)\n");
     scanf("%f", &sat_mult);
 
     printf("What is your Sunday multiplier? (e.g. 50%% extra would be 1.5)\n");
